@@ -1,0 +1,23 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "okcoin test",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "keccak": "^1.4.0",
+    "secp256k1": "^3.5.0"
+  },
+  "repository": {},
+  "author": "charlie",
+  "license": "ISC",
+  "bugs": {},
+  "devDependencies": {
+    "event": "^1.0.0",
+    "node-uuid": "^1.4.8",
+    "nodemailer": "^4.4.1"
+  }
+}
